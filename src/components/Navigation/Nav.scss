@@ -1,0 +1,30 @@
+.nav-header {
+    .bg-header {
+
+        background-color: #20232a !important;
+    }
+
+    a,
+    .nav-link {
+        color: #fff !important;
+
+        &:hover {
+            color: #41e0fd !important;
+        }
+
+        &.active {
+            color: #41e0fd !important;
+        }
+    }
+
+    .dropdown-menu {
+        a {
+            color: #20232a !important;
+        }
+    }
+
+    .brand-name {
+        color      : #07cef1 !important;
+        font-weight: 700;
+    }
+}

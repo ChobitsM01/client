@@ -1,0 +1,12 @@
+.icon {
+    font-size : 30px;
+    margin-top: 35px;
+
+    &.icon-add {
+        color: green;
+    }
+
+    &.icon-remove {
+        color: rgb(222, 44, 44);
+    }
+}
